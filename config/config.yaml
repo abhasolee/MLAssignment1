@@ -1,0 +1,8 @@
+experiment:
+  num_epochs: 10   
+  batch_size: 64
+  learning_rate: 0.001
+  patience: 3
+
+paths:
+  data_dir: "./data"
